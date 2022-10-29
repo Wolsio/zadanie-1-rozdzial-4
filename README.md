@@ -1,5 +1,5 @@
 # zadanie-1-rozdzial-4 </br>
-(crying.jpg)
+![alt text](https://github.com/Wolsio/zadanie-1-rozdzial-4/blob/main/crying.jpg?raw=true)
 >*ouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu*</br>
 **bólll egzystencjalnyyyyyyyy**<br>
 ~~a może na piwko z grupą skoczymy?~~<br>
