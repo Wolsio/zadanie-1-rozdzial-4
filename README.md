@@ -3,7 +3,7 @@
 >*ouuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu*</br>
 **bólll egzystencjalnyyyyyyyy**<br>
 ~~a może na piwko z grupą skoczymy?~~<br>
-`odpowiedz` udziel na zakreślone pytanie </br>
+"`odpowiedz` udziel na zakreślone pytanie" </br>
 
 lista rzeczy do zrobienia:
 1. kupić coś słodkiego
